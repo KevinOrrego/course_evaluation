@@ -101,6 +101,8 @@ class _HomeScreenState extends State<HomeScreen> {
     await googleSignIn.signOut();
     var user = await googleSignIn.signIn();
 
+    print(user);
+
     if (user == null) {
       setState(() {
         _showLoader = false;

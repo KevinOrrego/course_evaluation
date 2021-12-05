@@ -1,0 +1,376 @@
+
+> Task :app:signingReport
+Variant: debug
+Config: debug
+Store: C:\Users\kevin\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: BF:D8:76:17:61:00:56:15:71:2D:DD:2D:B0:DF:0C:1A
+SHA1: 8E:20:5D:19:31:7E:5E:CB:08:E4:9C:84:F3:8F:2F:EC:3A:4E:F1:FA
+SHA-256: 8A:64:56:16:64:1F:34:CE:3D:52:A9:E1:BB:18:78:89:52:7C:16:A0:46:25:B1:69:28:80:15:B9:00:B4:06:EA
+Valid until: lunes 16 de octubre de 2051
+----------
+Variant: release
+Config: debug
+Store: C:\Users\kevin\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: BF:D8:76:17:61:00:56:15:71:2D:DD:2D:B0:DF:0C:1A
+SHA1: 8E:20:5D:19:31:7E:5E:CB:08:E4:9C:84:F3:8F:2F:EC:3A:4E:F1:FA
+SHA-256: 8A:64:56:16:64:1F:34:CE:3D:52:A9:E1:BB:18:78:89:52:7C:16:A0:46:25:B1:69:28:80:15:B9:00:B4:06:EA
+Valid until: lunes 16 de octubre de 2051
+----------
+Variant: profile
+Config: debug
+Store: C:\Users\kevin\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: BF:D8:76:17:61:00:56:15:71:2D:DD:2D:B0:DF:0C:1A
+SHA1: 8E:20:5D:19:31:7E:5E:CB:08:E4:9C:84:F3:8F:2F:EC:3A:4E:F1:FA
+SHA-256: 8A:64:56:16:64:1F:34:CE:3D:52:A9:E1:BB:18:78:89:52:7C:16:A0:46:25:B1:69:28:80:15:B9:00:B4:06:EA
+Valid until: lunes 16 de octubre de 2051
+----------
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\kevin\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: BF:D8:76:17:61:00:56:15:71:2D:DD:2D:B0:DF:0C:1A
+SHA1: 8E:20:5D:19:31:7E:5E:CB:08:E4:9C:84:F3:8F:2F:EC:3A:4E:F1:FA
+SHA-256: 8A:64:56:16:64:1F:34:CE:3D:52:A9:E1:BB:18:78:89:52:7C:16:A0:46:25:B1:69:28:80:15:B9:00:B4:06:EA
+Valid until: lunes 16 de octubre de 2051
+----------
+Variant: debugUnitTest
+Config: debug
+Store: C:\Users\kevin\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: BF:D8:76:17:61:00:56:15:71:2D:DD:2D:B0:DF:0C:1A
+SHA1: 8E:20:5D:19:31:7E:5E:CB:08:E4:9C:84:F3:8F:2F:EC:3A:4E:F1:FA
+SHA-256: 8A:64:56:16:64:1F:34:CE:3D:52:A9:E1:BB:18:78:89:52:7C:16:A0:46:25:B1:69:28:80:15:B9:00:B4:06:EA
+Valid until: lunes 16 de octubre de 2051
+----------
+Variant: releaseUnitTest
+Config: debug
+Store: C:\Users\kevin\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: BF:D8:76:17:61:00:56:15:71:2D:DD:2D:B0:DF:0C:1A
+SHA1: 8E:20:5D:19:31:7E:5E:CB:08:E4:9C:84:F3:8F:2F:EC:3A:4E:F1:FA
+SHA-256: 8A:64:56:16:64:1F:34:CE:3D:52:A9:E1:BB:18:78:89:52:7C:16:A0:46:25:B1:69:28:80:15:B9:00:B4:06:EA
+Valid until: lunes 16 de octubre de 2051
+----------
+Variant: profileUnitTest
+Config: debug
+Store: C:\Users\kevin\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: BF:D8:76:17:61:00:56:15:71:2D:DD:2D:B0:DF:0C:1A
+SHA1: 8E:20:5D:19:31:7E:5E:CB:08:E4:9C:84:F3:8F:2F:EC:3A:4E:F1:FA
+SHA-256: 8A:64:56:16:64:1F:34:CE:3D:52:A9:E1:BB:18:78:89:52:7C:16:A0:46:25:B1:69:28:80:15:B9:00:B4:06:EA
+Valid until: lunes 16 de octubre de 2051
+----------
+
+> Task :connectivity:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\kevin\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: BF:D8:76:17:61:00:56:15:71:2D:DD:2D:B0:DF:0C:1A
+SHA1: 8E:20:5D:19:31:7E:5E:CB:08:E4:9C:84:F3:8F:2F:EC:3A:4E:F1:FA
+SHA-256: 8A:64:56:16:64:1F:34:CE:3D:52:A9:E1:BB:18:78:89:52:7C:16:A0:46:25:B1:69:28:80:15:B9:00:B4:06:EA
+Valid until: lunes 16 de octubre de 2051
+----------
+Variant: debugUnitTest
+Config: debug
+Store: C:\Users\kevin\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: BF:D8:76:17:61:00:56:15:71:2D:DD:2D:B0:DF:0C:1A
+SHA1: 8E:20:5D:19:31:7E:5E:CB:08:E4:9C:84:F3:8F:2F:EC:3A:4E:F1:FA
+SHA-256: 8A:64:56:16:64:1F:34:CE:3D:52:A9:E1:BB:18:78:89:52:7C:16:A0:46:25:B1:69:28:80:15:B9:00:B4:06:EA
+Valid until: lunes 16 de octubre de 2051
+----------
+Variant: releaseUnitTest
+Config: debug
+Store: C:\Users\kevin\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: BF:D8:76:17:61:00:56:15:71:2D:DD:2D:B0:DF:0C:1A
+SHA1: 8E:20:5D:19:31:7E:5E:CB:08:E4:9C:84:F3:8F:2F:EC:3A:4E:F1:FA
+SHA-256: 8A:64:56:16:64:1F:34:CE:3D:52:A9:E1:BB:18:78:89:52:7C:16:A0:46:25:B1:69:28:80:15:B9:00:B4:06:EA
+Valid until: lunes 16 de octubre de 2051
+----------
+Variant: profileUnitTest
+Config: debug
+Store: C:\Users\kevin\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: BF:D8:76:17:61:00:56:15:71:2D:DD:2D:B0:DF:0C:1A
+SHA1: 8E:20:5D:19:31:7E:5E:CB:08:E4:9C:84:F3:8F:2F:EC:3A:4E:F1:FA
+SHA-256: 8A:64:56:16:64:1F:34:CE:3D:52:A9:E1:BB:18:78:89:52:7C:16:A0:46:25:B1:69:28:80:15:B9:00:B4:06:EA
+Valid until: lunes 16 de octubre de 2051
+----------
+
+> Task :flutter_plugin_android_lifecycle:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\kevin\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: BF:D8:76:17:61:00:56:15:71:2D:DD:2D:B0:DF:0C:1A
+SHA1: 8E:20:5D:19:31:7E:5E:CB:08:E4:9C:84:F3:8F:2F:EC:3A:4E:F1:FA
+SHA-256: 8A:64:56:16:64:1F:34:CE:3D:52:A9:E1:BB:18:78:89:52:7C:16:A0:46:25:B1:69:28:80:15:B9:00:B4:06:EA
+Valid until: lunes 16 de octubre de 2051
+----------
+Variant: debugUnitTest
+Config: debug
+Store: C:\Users\kevin\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: BF:D8:76:17:61:00:56:15:71:2D:DD:2D:B0:DF:0C:1A
+SHA1: 8E:20:5D:19:31:7E:5E:CB:08:E4:9C:84:F3:8F:2F:EC:3A:4E:F1:FA
+SHA-256: 8A:64:56:16:64:1F:34:CE:3D:52:A9:E1:BB:18:78:89:52:7C:16:A0:46:25:B1:69:28:80:15:B9:00:B4:06:EA
+Valid until: lunes 16 de octubre de 2051
+----------
+Variant: releaseUnitTest
+Config: debug
+Store: C:\Users\kevin\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: BF:D8:76:17:61:00:56:15:71:2D:DD:2D:B0:DF:0C:1A
+SHA1: 8E:20:5D:19:31:7E:5E:CB:08:E4:9C:84:F3:8F:2F:EC:3A:4E:F1:FA
+SHA-256: 8A:64:56:16:64:1F:34:CE:3D:52:A9:E1:BB:18:78:89:52:7C:16:A0:46:25:B1:69:28:80:15:B9:00:B4:06:EA
+Valid until: lunes 16 de octubre de 2051
+----------
+Variant: profileUnitTest
+Config: debug
+Store: C:\Users\kevin\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: BF:D8:76:17:61:00:56:15:71:2D:DD:2D:B0:DF:0C:1A
+SHA1: 8E:20:5D:19:31:7E:5E:CB:08:E4:9C:84:F3:8F:2F:EC:3A:4E:F1:FA
+SHA-256: 8A:64:56:16:64:1F:34:CE:3D:52:A9:E1:BB:18:78:89:52:7C:16:A0:46:25:B1:69:28:80:15:B9:00:B4:06:EA
+Valid until: lunes 16 de octubre de 2051
+----------
+
+> Task :google_sign_in:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\kevin\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: BF:D8:76:17:61:00:56:15:71:2D:DD:2D:B0:DF:0C:1A
+SHA1: 8E:20:5D:19:31:7E:5E:CB:08:E4:9C:84:F3:8F:2F:EC:3A:4E:F1:FA
+SHA-256: 8A:64:56:16:64:1F:34:CE:3D:52:A9:E1:BB:18:78:89:52:7C:16:A0:46:25:B1:69:28:80:15:B9:00:B4:06:EA
+Valid until: lunes 16 de octubre de 2051
+----------
+Variant: debugUnitTest
+Config: debug
+Store: C:\Users\kevin\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: BF:D8:76:17:61:00:56:15:71:2D:DD:2D:B0:DF:0C:1A
+SHA1: 8E:20:5D:19:31:7E:5E:CB:08:E4:9C:84:F3:8F:2F:EC:3A:4E:F1:FA
+SHA-256: 8A:64:56:16:64:1F:34:CE:3D:52:A9:E1:BB:18:78:89:52:7C:16:A0:46:25:B1:69:28:80:15:B9:00:B4:06:EA
+Valid until: lunes 16 de octubre de 2051
+----------
+Variant: releaseUnitTest
+Config: debug
+Store: C:\Users\kevin\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: BF:D8:76:17:61:00:56:15:71:2D:DD:2D:B0:DF:0C:1A
+SHA1: 8E:20:5D:19:31:7E:5E:CB:08:E4:9C:84:F3:8F:2F:EC:3A:4E:F1:FA
+SHA-256: 8A:64:56:16:64:1F:34:CE:3D:52:A9:E1:BB:18:78:89:52:7C:16:A0:46:25:B1:69:28:80:15:B9:00:B4:06:EA
+Valid until: lunes 16 de octubre de 2051
+----------
+Variant: profileUnitTest
+Config: debug
+Store: C:\Users\kevin\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: BF:D8:76:17:61:00:56:15:71:2D:DD:2D:B0:DF:0C:1A
+SHA1: 8E:20:5D:19:31:7E:5E:CB:08:E4:9C:84:F3:8F:2F:EC:3A:4E:F1:FA
+SHA-256: 8A:64:56:16:64:1F:34:CE:3D:52:A9:E1:BB:18:78:89:52:7C:16:A0:46:25:B1:69:28:80:15:B9:00:B4:06:EA
+Valid until: lunes 16 de octubre de 2051
+----------
+
+> Task :image_picker:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\kevin\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: BF:D8:76:17:61:00:56:15:71:2D:DD:2D:B0:DF:0C:1A
+SHA1: 8E:20:5D:19:31:7E:5E:CB:08:E4:9C:84:F3:8F:2F:EC:3A:4E:F1:FA
+SHA-256: 8A:64:56:16:64:1F:34:CE:3D:52:A9:E1:BB:18:78:89:52:7C:16:A0:46:25:B1:69:28:80:15:B9:00:B4:06:EA
+Valid until: lunes 16 de octubre de 2051
+----------
+Variant: debugUnitTest
+Config: debug
+Store: C:\Users\kevin\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: BF:D8:76:17:61:00:56:15:71:2D:DD:2D:B0:DF:0C:1A
+SHA1: 8E:20:5D:19:31:7E:5E:CB:08:E4:9C:84:F3:8F:2F:EC:3A:4E:F1:FA
+SHA-256: 8A:64:56:16:64:1F:34:CE:3D:52:A9:E1:BB:18:78:89:52:7C:16:A0:46:25:B1:69:28:80:15:B9:00:B4:06:EA
+Valid until: lunes 16 de octubre de 2051
+----------
+Variant: releaseUnitTest
+Config: debug
+Store: C:\Users\kevin\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: BF:D8:76:17:61:00:56:15:71:2D:DD:2D:B0:DF:0C:1A
+SHA1: 8E:20:5D:19:31:7E:5E:CB:08:E4:9C:84:F3:8F:2F:EC:3A:4E:F1:FA
+SHA-256: 8A:64:56:16:64:1F:34:CE:3D:52:A9:E1:BB:18:78:89:52:7C:16:A0:46:25:B1:69:28:80:15:B9:00:B4:06:EA
+Valid until: lunes 16 de octubre de 2051
+----------
+Variant: profileUnitTest
+Config: debug
+Store: C:\Users\kevin\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: BF:D8:76:17:61:00:56:15:71:2D:DD:2D:B0:DF:0C:1A
+SHA1: 8E:20:5D:19:31:7E:5E:CB:08:E4:9C:84:F3:8F:2F:EC:3A:4E:F1:FA
+SHA-256: 8A:64:56:16:64:1F:34:CE:3D:52:A9:E1:BB:18:78:89:52:7C:16:A0:46:25:B1:69:28:80:15:B9:00:B4:06:EA
+Valid until: lunes 16 de octubre de 2051
+----------
+
+> Task :path_provider_android:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\kevin\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: BF:D8:76:17:61:00:56:15:71:2D:DD:2D:B0:DF:0C:1A
+SHA1: 8E:20:5D:19:31:7E:5E:CB:08:E4:9C:84:F3:8F:2F:EC:3A:4E:F1:FA
+SHA-256: 8A:64:56:16:64:1F:34:CE:3D:52:A9:E1:BB:18:78:89:52:7C:16:A0:46:25:B1:69:28:80:15:B9:00:B4:06:EA
+Valid until: lunes 16 de octubre de 2051
+----------
+Variant: debugUnitTest
+Config: debug
+Store: C:\Users\kevin\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: BF:D8:76:17:61:00:56:15:71:2D:DD:2D:B0:DF:0C:1A
+SHA1: 8E:20:5D:19:31:7E:5E:CB:08:E4:9C:84:F3:8F:2F:EC:3A:4E:F1:FA
+SHA-256: 8A:64:56:16:64:1F:34:CE:3D:52:A9:E1:BB:18:78:89:52:7C:16:A0:46:25:B1:69:28:80:15:B9:00:B4:06:EA
+Valid until: lunes 16 de octubre de 2051
+----------
+Variant: releaseUnitTest
+Config: debug
+Store: C:\Users\kevin\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: BF:D8:76:17:61:00:56:15:71:2D:DD:2D:B0:DF:0C:1A
+SHA1: 8E:20:5D:19:31:7E:5E:CB:08:E4:9C:84:F3:8F:2F:EC:3A:4E:F1:FA
+SHA-256: 8A:64:56:16:64:1F:34:CE:3D:52:A9:E1:BB:18:78:89:52:7C:16:A0:46:25:B1:69:28:80:15:B9:00:B4:06:EA
+Valid until: lunes 16 de octubre de 2051
+----------
+Variant: profileUnitTest
+Config: debug
+Store: C:\Users\kevin\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: BF:D8:76:17:61:00:56:15:71:2D:DD:2D:B0:DF:0C:1A
+SHA1: 8E:20:5D:19:31:7E:5E:CB:08:E4:9C:84:F3:8F:2F:EC:3A:4E:F1:FA
+SHA-256: 8A:64:56:16:64:1F:34:CE:3D:52:A9:E1:BB:18:78:89:52:7C:16:A0:46:25:B1:69:28:80:15:B9:00:B4:06:EA
+Valid until: lunes 16 de octubre de 2051
+----------
+
+> Task :shared_preferences_android:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\kevin\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: BF:D8:76:17:61:00:56:15:71:2D:DD:2D:B0:DF:0C:1A
+SHA1: 8E:20:5D:19:31:7E:5E:CB:08:E4:9C:84:F3:8F:2F:EC:3A:4E:F1:FA
+SHA-256: 8A:64:56:16:64:1F:34:CE:3D:52:A9:E1:BB:18:78:89:52:7C:16:A0:46:25:B1:69:28:80:15:B9:00:B4:06:EA
+Valid until: lunes 16 de octubre de 2051
+----------
+Variant: debugUnitTest
+Config: debug
+Store: C:\Users\kevin\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: BF:D8:76:17:61:00:56:15:71:2D:DD:2D:B0:DF:0C:1A
+SHA1: 8E:20:5D:19:31:7E:5E:CB:08:E4:9C:84:F3:8F:2F:EC:3A:4E:F1:FA
+SHA-256: 8A:64:56:16:64:1F:34:CE:3D:52:A9:E1:BB:18:78:89:52:7C:16:A0:46:25:B1:69:28:80:15:B9:00:B4:06:EA
+Valid until: lunes 16 de octubre de 2051
+----------
+Variant: releaseUnitTest
+Config: debug
+Store: C:\Users\kevin\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: BF:D8:76:17:61:00:56:15:71:2D:DD:2D:B0:DF:0C:1A
+SHA1: 8E:20:5D:19:31:7E:5E:CB:08:E4:9C:84:F3:8F:2F:EC:3A:4E:F1:FA
+SHA-256: 8A:64:56:16:64:1F:34:CE:3D:52:A9:E1:BB:18:78:89:52:7C:16:A0:46:25:B1:69:28:80:15:B9:00:B4:06:EA
+Valid until: lunes 16 de octubre de 2051
+----------
+Variant: profileUnitTest
+Config: debug
+Store: C:\Users\kevin\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: BF:D8:76:17:61:00:56:15:71:2D:DD:2D:B0:DF:0C:1A
+SHA1: 8E:20:5D:19:31:7E:5E:CB:08:E4:9C:84:F3:8F:2F:EC:3A:4E:F1:FA
+SHA-256: 8A:64:56:16:64:1F:34:CE:3D:52:A9:E1:BB:18:78:89:52:7C:16:A0:46:25:B1:69:28:80:15:B9:00:B4:06:EA
+Valid until: lunes 16 de octubre de 2051
+----------
+
+> Task :sqflite:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\kevin\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: BF:D8:76:17:61:00:56:15:71:2D:DD:2D:B0:DF:0C:1A
+SHA1: 8E:20:5D:19:31:7E:5E:CB:08:E4:9C:84:F3:8F:2F:EC:3A:4E:F1:FA
+SHA-256: 8A:64:56:16:64:1F:34:CE:3D:52:A9:E1:BB:18:78:89:52:7C:16:A0:46:25:B1:69:28:80:15:B9:00:B4:06:EA
+Valid until: lunes 16 de octubre de 2051
+----------
+Variant: debugUnitTest
+Config: debug
+Store: C:\Users\kevin\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: BF:D8:76:17:61:00:56:15:71:2D:DD:2D:B0:DF:0C:1A
+SHA1: 8E:20:5D:19:31:7E:5E:CB:08:E4:9C:84:F3:8F:2F:EC:3A:4E:F1:FA
+SHA-256: 8A:64:56:16:64:1F:34:CE:3D:52:A9:E1:BB:18:78:89:52:7C:16:A0:46:25:B1:69:28:80:15:B9:00:B4:06:EA
+Valid until: lunes 16 de octubre de 2051
+----------
+Variant: releaseUnitTest
+Config: debug
+Store: C:\Users\kevin\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: BF:D8:76:17:61:00:56:15:71:2D:DD:2D:B0:DF:0C:1A
+SHA1: 8E:20:5D:19:31:7E:5E:CB:08:E4:9C:84:F3:8F:2F:EC:3A:4E:F1:FA
+SHA-256: 8A:64:56:16:64:1F:34:CE:3D:52:A9:E1:BB:18:78:89:52:7C:16:A0:46:25:B1:69:28:80:15:B9:00:B4:06:EA
+Valid until: lunes 16 de octubre de 2051
+----------
+Variant: profileUnitTest
+Config: debug
+Store: C:\Users\kevin\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: BF:D8:76:17:61:00:56:15:71:2D:DD:2D:B0:DF:0C:1A
+SHA1: 8E:20:5D:19:31:7E:5E:CB:08:E4:9C:84:F3:8F:2F:EC:3A:4E:F1:FA
+SHA-256: 8A:64:56:16:64:1F:34:CE:3D:52:A9:E1:BB:18:78:89:52:7C:16:A0:46:25:B1:69:28:80:15:B9:00:B4:06:EA
+Valid until: lunes 16 de octubre de 2051
+----------
+
+> Task :url_launcher_android:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\kevin\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: BF:D8:76:17:61:00:56:15:71:2D:DD:2D:B0:DF:0C:1A
+SHA1: 8E:20:5D:19:31:7E:5E:CB:08:E4:9C:84:F3:8F:2F:EC:3A:4E:F1:FA
+SHA-256: 8A:64:56:16:64:1F:34:CE:3D:52:A9:E1:BB:18:78:89:52:7C:16:A0:46:25:B1:69:28:80:15:B9:00:B4:06:EA
+Valid until: lunes 16 de octubre de 2051
+----------
+Variant: debugUnitTest
+Config: debug
+Store: C:\Users\kevin\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: BF:D8:76:17:61:00:56:15:71:2D:DD:2D:B0:DF:0C:1A
+SHA1: 8E:20:5D:19:31:7E:5E:CB:08:E4:9C:84:F3:8F:2F:EC:3A:4E:F1:FA
+SHA-256: 8A:64:56:16:64:1F:34:CE:3D:52:A9:E1:BB:18:78:89:52:7C:16:A0:46:25:B1:69:28:80:15:B9:00:B4:06:EA
+Valid until: lunes 16 de octubre de 2051
+----------
+Variant: releaseUnitTest
+Config: debug
+Store: C:\Users\kevin\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: BF:D8:76:17:61:00:56:15:71:2D:DD:2D:B0:DF:0C:1A
+SHA1: 8E:20:5D:19:31:7E:5E:CB:08:E4:9C:84:F3:8F:2F:EC:3A:4E:F1:FA
+SHA-256: 8A:64:56:16:64:1F:34:CE:3D:52:A9:E1:BB:18:78:89:52:7C:16:A0:46:25:B1:69:28:80:15:B9:00:B4:06:EA
+Valid until: lunes 16 de octubre de 2051
+----------
+Variant: profileUnitTest
+Config: debug
+Store: C:\Users\kevin\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: BF:D8:76:17:61:00:56:15:71:2D:DD:2D:B0:DF:0C:1A
+SHA1: 8E:20:5D:19:31:7E:5E:CB:08:E4:9C:84:F3:8F:2F:EC:3A:4E:F1:FA
+SHA-256: 8A:64:56:16:64:1F:34:CE:3D:52:A9:E1:BB:18:78:89:52:7C:16:A0:46:25:B1:69:28:80:15:B9:00:B4:06:EA
+Valid until: lunes 16 de octubre de 2051
+----------
+
+Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0.
+Use '--warning-mode all' to show the individual deprecation warnings.
+See https://docs.gradle.org/6.7/userguide/command_line_interface.html#sec:command_line_warnings
+
+BUILD SUCCESSFUL in 1s
+9 actionable tasks: 9 executed
