@@ -1,4 +1,3 @@
 class Constants {
-  static String get apiUrl =>
-      "https://anime-facts-rest-api.herokuapp.com/api/v1";
+  static String get apiUrl => "https://vehicleszulu.azurewebsites.net";
 }

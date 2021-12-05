@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:course_evaluation/screens/anime_home.dart';
+import 'package:course_evaluation/screens/home_screen.dart';
 
 void main() => runApp(const MyApp());
 
@@ -11,6 +11,6 @@ class MyApp extends StatelessWidget {
     return const MaterialApp(
         debugShowCheckedModeBanner: false,
         title: 'Anime list on pocket',
-        home: AnimeHome());
+        home: HomeScreen());
   }
 }
