@@ -1,3 +1,5 @@
+import 'package:course_evaluation/helpers/api_helper.dart';
+import 'package:course_evaluation/models/survey.dart';
 import 'package:course_evaluation/screens/lobby_screen.dart';
 import 'package:flutter/material.dart';
 import 'dart:convert';
@@ -8,7 +10,7 @@ import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:google_sign_in/google_sign_in.dart';
 import 'package:http/http.dart' as http;
 import 'package:shared_preferences/shared_preferences.dart';
-
+import 'package:course_evaluation/models/response.dart';
 import 'package:course_evaluation/components/loader_component.dart';
 import 'package:course_evaluation/helpers/constants.dart';
 import 'package:course_evaluation/models/token.dart';
@@ -34,36 +36,21 @@ class _HomeScreenState extends State<HomeScreen> {
         children: <Widget>[
           _showTitle(),
           _showGoogleLoginButton(),
-          // Container(
-          //   padding: const EdgeInsets.all(30),
-          //   child: FloatingActionButton.extended(
-          //     onPressed: () {
-          //       // este elemento hace que me mueva entre pantallas
-          //       Navigator.of(context)
-          //           .push(MaterialPageRoute(builder: (BuildContext context) {
-          //         return const LobbyScreen();
-          //       }));
-          //     },
-          //     label: const Text(
-          //       "Ir a la lista",
-          //       style: TextStyle(color: Colors.black, fontSize: 22),
-          //     ),
-          //     backgroundColor: Colors.amber,
-          //   ),
-          // ),
         ],
       )),
     );
   }
 
   Widget _showTitle() {
-    return Container(
-      padding: const EdgeInsets.all(20),
-      child: const Text(
-        "Bienvenido a la sistema de calificación de programación distribuida",
-        style: TextStyle(
-          fontSize: 22,
-          fontWeight: FontWeight.bold,
+    return Center(
+      child: Container(
+        padding: const EdgeInsets.all(20),
+        child: const Text(
+          "Bienvenido a la encuesta de programación distribuida",
+          style: TextStyle(
+            fontSize: 22,
+            fontWeight: FontWeight.bold,
+          ),
         ),
       ),
     );
@@ -101,30 +88,12 @@ class _HomeScreenState extends State<HomeScreen> {
     await googleSignIn.signOut();
     var user = await googleSignIn.signIn();
 
-    print(user);
-
-    if (user == null) {
-      setState(() {
-        _showLoader = false;
-      });
-
-      await showAlertDialog(
-          context: context,
-          title: 'Error',
-          message:
-              'Hubo un problema al obtener el usuario de Google, por favor intenta más tarde.',
-          actions: <AlertDialogAction>[
-            AlertDialogAction(key: null, label: 'Aceptar'),
-          ]);
-      return;
-    }
-
     Map<String, dynamic> request = {
-      'email': user.email,
-      'id': user.id,
+      'email': user?.email,
+      'id': user?.id,
       'loginType': 1,
-      'fullName': user.displayName,
-      'photoURL': user.photoUrl,
+      'fullName': user?.displayName,
+      'photoURL': user?.photoUrl,
     };
 
     await _socialLogin(request);
@@ -166,11 +135,22 @@ class _HomeScreenState extends State<HomeScreen> {
 
     var decodedJson = jsonDecode(body);
     var token = Token.fromJson(decodedJson);
+
+    Response respuesta = await ApiHelper.getSurvey(token);
+
     Navigator.pushReplacement(
         context,
         MaterialPageRoute(
             builder: (context) => LobbyScreen(
                   token: token,
+                  survey: Survey(
+                      id: 0,
+                      date: "",
+                      email: "kevinorrego251539@correo.itm.edu.co",
+                      qualification: 5,
+                      remarks: "todo muy bueno",
+                      theBest: "flutter",
+                      theWorst: "asp .net core"),
                 )));
   }
 }
